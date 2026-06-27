@@ -1,0 +1,166 @@
+secteur,etape,sous_etape,valeur,unite,condition
+Guider,variete,IRMA Q302,1,oui,
+Guider,fertilisation,formule_NPKSB,15.20.15.5.1,,
+Guider,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Guider,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Guider,fertilisation,dose_uree_precoce_sansFO,50,kg/ha,precoce
+Guider,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Guider,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Guider,fertilisation,dose_uree_tardif_sansFO,50,kg/ha,tardif
+Guider,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Guider,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Guider,fertilisation,dose_uree_avecFO,50,kg/ha,avec_FO
+Garoua1,variete,IRMA Q302,1,oui,
+Garoua1,fertilisation,formule_NPKSB,15.20.15.5.1,,
+Garoua1,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Garoua1,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Garoua1,fertilisation,dose_uree_precoce_sansFO,50,kg/ha,precoce
+Garoua1,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Garoua1,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Garoua1,fertilisation,dose_uree_tardif_sansFO,50,kg/ha,tardif
+Garoua1,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Garoua1,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Garoua1,fertilisation,dose_uree_avecFO,50,kg/ha,avec_FO
+Garoua2,variete,IRMA Q302,1,oui,
+Garoua2,fertilisation,formule_NPKSB,15.20.15.5.1,,
+Garoua2,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Garoua2,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Garoua2,fertilisation,dose_uree_precoce_sansFO,50,kg/ha,precoce
+Garoua2,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Garoua2,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Garoua2,fertilisation,dose_uree_tardif_sansFO,50,kg/ha,tardif
+Garoua2,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Garoua2,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Garoua2,fertilisation,dose_uree_avecFO,50,kg/ha,avec_FO
+Ngong,variete,IRMA Q302,1,oui,
+Ngong,fertilisation,formule_NPKSB,15.20.15.5.1,,
+Ngong,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Ngong,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Ngong,fertilisation,dose_uree_precoce_sansFO,50,kg/ha,precoce
+Ngong,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Ngong,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Ngong,fertilisation,dose_uree_tardif_sansFO,50,kg/ha,tardif
+Ngong,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Ngong,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Ngong,fertilisation,dose_uree_avecFO,50,kg/ha,avec_FO
+MayoGalke,variete,IRMA Q302,1,oui,
+MayoGalke,fertilisation,formule_NPKSB,15.20.15.5.1,,
+MayoGalke,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+MayoGalke,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+MayoGalke,fertilisation,dose_uree_precoce_sansFO,50,kg/ha,precoce
+MayoGalke,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+MayoGalke,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+MayoGalke,fertilisation,dose_uree_tardif_sansFO,50,kg/ha,tardif
+MayoGalke,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+MayoGalke,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+MayoGalke,fertilisation,dose_uree_avecFO,50,kg/ha,avec_FO
+Touboro,variete,IRMA Q302,1,oui,
+Touboro,fertilisation,formule_NPKSB,15.20.15.5.1,,
+Touboro,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Touboro,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Touboro,fertilisation,dose_uree_precoce_sansFO,50,kg/ha,precoce
+Touboro,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Touboro,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Touboro,fertilisation,dose_uree_tardif_sansFO,50,kg/ha,tardif
+Touboro,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Touboro,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Touboro,fertilisation,dose_uree_avecFO,50,kg/ha,avec_FO
+Maroua1,variete,IRMA A2188,1,oui,
+Maroua1,fertilisation,formule_NPKSB,22.23.15.5.1,,
+Maroua1,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Maroua1,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Maroua1,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+Maroua1,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Maroua1,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Maroua1,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+Maroua1,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Maroua1,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Maroua1,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
+Maroua2,variete,IRMA A2188,1,oui,
+Maroua2,fertilisation,formule_NPKSB,22.23.15.5.1,,
+Maroua2,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Maroua2,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Maroua2,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+Maroua2,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Maroua2,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Maroua2,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+Maroua2,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Maroua2,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Maroua2,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
+Tchatibali,variete,IRMA A2188,1,oui,
+Tchatibali,fertilisation,formule_NPKSB,22.23.15.5.1,,
+Tchatibali,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Tchatibali,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Tchatibali,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+Tchatibali,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Tchatibali,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Tchatibali,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+Tchatibali,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Tchatibali,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Tchatibali,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
+KaEle,variete,IRMA Q302_et_A2188_et_D2139,1,oui,selon sous-secteur
+KaEle,fertilisation,formule_NPKSB,22.23.15.5.1,,
+KaEle,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+KaEle,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+KaEle,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+KaEle,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+KaEle,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+KaEle,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+KaEle,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+KaEle,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+KaEle,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
+Moutourwa,variete,IRMA Q302,1,oui,
+Moutourwa,fertilisation,formule_NPKSB,22.23.15.5.1,,
+Moutourwa,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Moutourwa,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Moutourwa,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+Moutourwa,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Moutourwa,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Moutourwa,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+Moutourwa,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Moutourwa,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Moutourwa,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
+Dziguilao,variete,IRMA A2188,1,oui,
+Dziguilao,fertilisation,formule_NPKSB,22.23.15.5.1,,
+Dziguilao,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Dziguilao,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Dziguilao,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+Dziguilao,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Dziguilao,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Dziguilao,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+Dziguilao,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Dziguilao,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Dziguilao,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
+Mindif,variete,IRMA D2139,1,oui,
+Mindif,fertilisation,formule_NPKSB,22.23.15.5.1,,
+Mindif,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Mindif,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Mindif,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+Mindif,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Mindif,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Mindif,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+Mindif,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Mindif,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Mindif,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
+Sorombeo,variete,IRMA D2139,1,oui,
+Sorombeo,fertilisation,formule_NPKSB,22.23.15.5.1,,
+Sorombeo,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Sorombeo,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Sorombeo,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+Sorombeo,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Sorombeo,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Sorombeo,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+Sorombeo,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Sorombeo,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Sorombeo,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
+Yoko,variete,IRMA Z2347,1,oui,
+Yoko,fertilisation,formule_NPKSB,22.23.15.5.1,,
+Yoko,fertilisation,dose_NPKSB_precoce_sansFO,200,kg/ha,precoce
+Yoko,fertilisation,dose_ZnSO4_precoce_sansFO,4,kg/ha,precoce
+Yoko,fertilisation,dose_uree_precoce_sansFO,0,kg/ha,precoce
+Yoko,fertilisation,dose_NPKSB_tardif_sansFO,100,kg/ha,tardif
+Yoko,fertilisation,dose_ZnSO4_tardif_sansFO,4,kg/ha,tardif
+Yoko,fertilisation,dose_uree_tardif_sansFO,0,kg/ha,tardif
+Yoko,fertilisation,dose_NPKSB_avecFO,100,kg/ha,avec_FO
+Yoko,fertilisation,dose_ZnSO4_avecFO,4,kg/ha,avec_FO
+Yoko,fertilisation,dose_uree_avecFO,0,kg/ha,avec_FO
